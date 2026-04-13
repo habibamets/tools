@@ -1,5 +1,6 @@
 def main():
-    print("Hello from tools!")
+    print("Hello from habiba!")
+    print("hi")
 
 
 if __name__ == "__main__":
